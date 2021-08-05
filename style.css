@@ -1,0 +1,22 @@
+
+.menu{
+
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+    
+    .menu, .container, .logo {
+    
+     background-image: url(img/bg-pattern.png);
+     background-color: rgba(29, 29, 221, 0.712);
+    }
+    
+    
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+      }
+      
