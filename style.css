@@ -1,12 +1,6 @@
-
-.menu{
-
-    text-align: right;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
     
-    }
-    
-    .menu, .container, .logo {
+.container, .logo {
     
      background-image: url(img/bg-pattern.png);
      background-color: rgba(29, 29, 221, 0.712);
@@ -20,3 +14,73 @@
         
       }
       
+   @font-face {
+       font-family:PressStart2P-Regular ;
+       src: url(Press_Start_2P/PressStart2P-Regular.ttf);
+   }
+   .text {
+   
+    font-family: PressStart2P-Regular;
+color: white;
+
+   }
+
+   .regenerate {
+
+background-color: #ff66c4;
+
+   }
+
+   .ended {
+
+    font-family:PressStart2P-Regular;
+  
+     
+    
+ color: white;
+}
+
+.campaign {
+
+    color: white;
+}
+
+.mine {
+
+    background-color: #480ea7;
+}
+
+.d1 {
+
+font-family:PressStart2P-Regular ;
+
+color: white;
+}
+
+.battle{
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+
+.battle{
+background-color: #6610f2;
+font-family:PressStart2P-Regular ;
+color: white;
+
+}
+
+.S-m{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+ .footer {
+     background-color: rgb(202, 202, 43);
+ }
+ .S-m{
+
+    padding-left: 1.4em;
+ }
