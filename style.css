@@ -80,7 +80,18 @@ color: white;
  .footer {
      background-color: rgb(202, 202, 43);
  }
- .S-m{
 
-    padding-left: 1.4em;
- }
+.contact{
+
+    background-color: rgba(15, 15, 15, 0.897);
+}
+
+.email a{
+
+    color: rgb(202, 202, 43);
+}
+
+.contact-2{
+
+    color: wheat;
+}
